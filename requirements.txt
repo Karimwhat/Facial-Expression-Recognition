@@ -1,0 +1,11 @@
+dlib
+numpy
+opencv-python
+scikit-learn
+scipy
+joblib
+pathlib
+more-itertools
+deepface
+tensorflow
+Pillow
